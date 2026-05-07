@@ -108,20 +108,6 @@ export const DesktopNavbar = () => {
           </div>
         </Link>
       </li>
-      <li className="text-sm items-stretch box-border caret-transparent flex shrink-0 justify-center leading-[22.4px] min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
-        <a
-          href="https://servicebyheart.com/contact-us/"
-          className="relative text-blue-900 text-sm box-border caret-transparent flex flex-col shrink-0 leading-[22.4px] min-h-0 min-w-px outline-[3px] overflow-hidden md:text-base md:leading-[25.6px] md:min-h-[auto]"
-        >
-          <div className="relative text-sm items-center box-border caret-transparent gap-x-[5px] flex grow shrink-0 h-full justify-between leading-[22.4px] min-h-0 min-w-0 outline-[3px] gap-y-[5px] overflow-hidden px-[17.5px] py-3.5 md:text-base md:leading-[25.6px] md:min-h-[auto] md:min-w-[auto] md:px-5 md:py-4">
-            <div className="text-sm box-border caret-transparent leading-[22.4px] max-w-full min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
-              <span className="relative text-[15.4px] font-black box-border caret-transparent block leading-[15.4px] outline-[3px] md:text-[17.6px] md:leading-[17.6px]">
-                Contact Us
-              </span>
-            </div>
-          </div>
-        </a>
-      </li>
     </ul>
   );
 };
