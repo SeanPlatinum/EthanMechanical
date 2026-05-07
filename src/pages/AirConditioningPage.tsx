@@ -87,7 +87,7 @@ export const AirConditioningPage = () => (
             className="absolute inset-0 bg-cover bg-center opacity-20"
             style={{
               backgroundImage:
-                "url('https://c.animaapp.com/moump05judxXNB/assets/heat-video-cover-comp.webp')",
+                "url('https://images.unsplash.com/photo-1612693956138-13c2f8f7d7a1?w=1200&q=80')",
             }}
           />
           <div className="relative max-w-[1200px] w-[88%] mx-auto py-16 md:py-24 text-center md:text-left">

@@ -3,7 +3,7 @@ export const HeroMedia = () => {
     <div className="relative text-sm box-border caret-transparent leading-[22.4px] outline-[3px] z-[2] overflow-hidden rounded-br-[100px] md:text-base md:leading-[25.6px] md:rounded-br-[200px]">
       <div className="absolute text-sm box-border caret-transparent h-full leading-[22.4px] outline-[3px] pointer-events-none w-full z-[-1] overflow-hidden rounded-br-[100px] left-0 top-0 md:text-base md:leading-[25.6px] md:rounded-br-[200px]">
         <div className="absolute text-sm box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden rounded-br-[100px] left-0 top-0 md:text-base md:leading-[25.6px] md:rounded-br-[200px]">
-          <div className="absolute text-sm bg-[url('https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full overflow-hidden bg-center left-0 top-0 md:text-base md:leading-[25.6px]">
+          <div className="absolute text-sm bg-[url('https://images.unsplash.com/photo-1581092918484-8313a1b1f0c1?w=1200&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full overflow-hidden bg-center left-0 top-0 md:text-base md:leading-[25.6px]">
             <div className="absolute text-sm box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]">
               <span className="text-sm box-border caret-transparent hidden leading-[22.4px] outline-[3px] md:text-base md:leading-[25.6px]">
                 Video Player
@@ -17,7 +17,7 @@ export const HeroMedia = () => {
                   <div className="absolute text-sm box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]">
                     <div className="text-sm box-border caret-transparent leading-[22.4px] outline-[3px] md:text-base md:leading-[25.6px]">
                       <video
-                        poster="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80"
+                        poster="https://images.unsplash.com/photo-1581092918484-8313a1b1f0c1?w=1200&q=80"
                         preload="metadata"
                         autoplay="true"
                         loop=""
@@ -35,9 +35,9 @@ export const HeroMedia = () => {
                     </div>
                   </div>
                   <div className="absolute text-sm box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full left-0 top-0 md:text-base md:leading-[25.6px]">
-                    <div className="absolute text-sm bg-[url('https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80')] bg-no-repeat bg-contain box-border caret-transparent hidden h-full leading-[22.4px] outline-[3px] w-full z-20 bg-center left-0 top-0 md:text-base md:leading-[25.6px]">
+                    <div className="absolute text-sm bg-[url('https://images.unsplash.com/photo-1581092918484-8313a1b1f0c1?w=1200&q=80')] bg-no-repeat bg-contain box-border caret-transparent hidden h-full leading-[22.4px] outline-[3px] w-full z-20 bg-center left-0 top-0 md:text-base md:leading-[25.6px]">
                       <img
-                        src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=1200&q=80"
+                        src="https://images.unsplash.com/photo-1581092918484-8313a1b1f0c1?w=1200&q=80"
                         alt=""
                         className="absolute text-sm aspect-[auto_0_/_0] box-border caret-transparent h-full leading-[22.4px] max-w-full object-contain outline-[3px] align-baseline w-full left-0 top-0 md:text-base md:leading-[25.6px]"
                       />
@@ -64,7 +64,7 @@ export const HeroMedia = () => {
             </div>
           </div>
         </div>
-        <div className="absolute text-sm bg-[url('https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=1600&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] opacity-90 outline-[3px] w-full z-[2] overflow-hidden bg-center rounded-br-[100px] left-0 top-0 md:text-base md:leading-[25.6px] md:rounded-br-[200px] before:accent-auto before:bg-black/30 before:box-border before:caret-transparent before:text-neutral-700 before:block before:text-sm before:not-italic before:normal-nums before:font-normal before:h-full before:tracking-[normal] before:leading-[22.4px] before:list-outside before:list-disc before:outline-[3px] before:pointer-events-none before:absolute before:text-start before:no-underline before:indent-[0px] before:normal-case before:visible before:w-full before:border-separate before:left-0 before:top-0 before:font-roboto before:md:text-base before:md:leading-[25.6px]"></div>
+        <div className="absolute text-sm bg-[url('https://images.unsplash.com/photo-1631545806623-7d0b4d3f4d84?w=1600&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] opacity-90 outline-[3px] w-full z-[2] overflow-hidden bg-center rounded-br-[100px] left-0 top-0 md:text-base md:leading-[25.6px] md:rounded-br-[200px] before:accent-auto before:bg-black/30 before:box-border before:caret-transparent before:text-neutral-700 before:block before:text-sm before:not-italic before:normal-nums before:font-normal before:h-full before:tracking-[normal] before:leading-[22.4px] before:list-outside before:list-disc before:outline-[3px] before:pointer-events-none before:absolute before:text-start before:no-underline before:indent-[0px] before:normal-case before:visible before:w-full before:border-separate before:left-0 before:top-0 before:font-roboto before:md:text-base before:md:leading-[25.6px]"></div>
       </div>
       <div className="relative text-sm items-stretch box-border caret-transparent flex justify-center leading-[22.4px] max-w-[1200px] outline-[3px] w-[88%] mx-auto p-px md:text-base md:leading-[25.6px]">
         <div className="text-sm items-stretch box-border caret-transparent flex grow flex-wrap justify-start leading-[22.4px] ml-[-11px] mr-[-11px] outline-[3px] -my-9 md:text-base md:leading-[25.6px]">
@@ -189,7 +189,7 @@ export const HeroMedia = () => {
                             className="text-sm box-border caret-transparent h-3.5 leading-[14px] outline-[3px] align-baseline w-3.5 md:text-base md:h-4 md:leading-4 md:w-4"
                           />
                         </span>
-                        <span className="text-white text-sm items-center box-border caret-transparent flex justify-center leading-[14px] min-h-[auto] min-w-[auto] outline-[3px] text-center ml-[5px] md:text-base md:leading-4">
+                src="https://images.unsplash.com/photo-1621905252472-e8a548a6b9d5?w=998&q=80"
                           <img
                             src="https://c.animaapp.com/moump05judxXNB/assets/icon-6.svg"
                             alt="Icon"
