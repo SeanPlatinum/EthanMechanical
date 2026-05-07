@@ -8,7 +8,7 @@ export const FeatureCardsSection = () => {
           <FeatureCard
             containerVariant="bg-neutral-100 min-h-0 mt-[75px] mb-[30px] px-[30px] md:min-h-[475px] md:mb-[25px]"
             topDecorationVariant=""
-            topDecorationInnerFirstVariant="absolute text-sm bg-[url('https://images.pexels.com/photos/236698/pexels-photo-236698.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
+            topDecorationInnerFirstVariant="absolute text-sm bg-[url('https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=800&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
             topDecorationInnerSecondVariant="absolute text-sm bg-[linear-gradient(to_top,rgba(43,57,145,0.7),rgba(43,57,145,0))] box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[2] overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]"
             iconSrc="https://c.animaapp.com/moump05judxXNB/assets/price-icon.svg"
             iconAlt=""
@@ -19,13 +19,13 @@ export const FeatureCardsSection = () => {
             linkHref="/about-us/financing/"
             linkText="View Plans"
             linkClassName="relative text-blue-900 text-sm bg-blue-900 box-border caret-transparent inline-flex flex-col leading-[22.4px] min-w-px outline-[3px] w-full overflow-hidden md:text-base md:leading-[25.6px] md:w-auto"
-            bottomDecorationFirstVariant="absolute text-sm bg-[url('https://images.pexels.com/photos/236698/pexels-photo-236698.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
+            bottomDecorationFirstVariant="absolute text-sm bg-[url('https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=800&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
             bottomDecorationSecondVariant="absolute text-sm bg-[linear-gradient(to_top,rgba(43,57,145,0.7),rgba(43,57,145,0))] box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[2] overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]"
           />
           <FeatureCard
             containerVariant="my-[30px] px-10 md:my-[25px]"
             topDecorationVariant="h-full pointer-events-none overflow-hidden rounded-b-[20px]"
-            topDecorationInnerFirstVariant="absolute text-sm bg-[url('https://images.pexels.com/photos/8486972/pexels-photo-8486972.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-center rounded-b-[20px] left-0 top-0 md:text-base md:leading-[25.6px]"
+            topDecorationInnerFirstVariant="absolute text-sm bg-[url('https://images.unsplash.com/photo-1581092918484-8313a1b1f0c1?w=800&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-center rounded-b-[20px] left-0 top-0 md:text-base md:leading-[25.6px]"
             topDecorationInnerSecondVariant=""
             iconSrc="https://c.animaapp.com/moump05judxXNB/assets/tools-icon.svg"
             iconAlt=""
@@ -36,13 +36,13 @@ export const FeatureCardsSection = () => {
             linkHref="/about-us/maintenance-plan/"
             linkText="View Benefits"
             linkClassName="relative text-blue-900 text-sm bg-red-600 box-border caret-transparent inline-flex flex-col leading-[22.4px] min-w-px outline-[3px] w-full overflow-hidden md:text-base md:leading-[25.6px] md:w-auto"
-            bottomDecorationFirstVariant="absolute text-sm bg-[url('https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
+            bottomDecorationFirstVariant="absolute text-sm bg-[url('https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
             bottomDecorationSecondVariant="absolute text-sm bg-[linear-gradient(to_top,rgba(43,188,237,0.2),rgba(43,57,145,0))] box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[2] overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]"
           />
           <FeatureCard
             containerVariant="bg-neutral-100 min-h-0 mt-[75px] mb-[30px] px-[30px] md:min-h-[475px] md:mb-[25px]"
             topDecorationVariant=""
-            topDecorationInnerFirstVariant="absolute text-sm bg-[url('https://images.pexels.com/photos/8005397/pexels-photo-8005397.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
+            topDecorationInnerFirstVariant="absolute text-sm bg-[url('https://images.unsplash.com/photo-1631545806623-7d0b4d3f4d84?w=800&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
             topDecorationInnerSecondVariant="absolute text-sm bg-[linear-gradient(to_top,rgba(43,57,145,0.7),rgba(43,57,145,0))] box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[2] overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]"
             iconSrc="https://c.animaapp.com/moump05judxXNB/assets/discount-icon.svg"
             iconAlt=""
@@ -53,7 +53,7 @@ export const FeatureCardsSection = () => {
             linkHref="/about-us/coupons/"
             linkText="View Coupons"
             linkClassName="relative text-blue-900 text-sm bg-blue-900 box-border caret-transparent inline-flex flex-col leading-[22.4px] min-w-px outline-[3px] w-full overflow-hidden md:text-base md:leading-[25.6px] md:w-auto"
-            bottomDecorationFirstVariant="absolute text-sm bg-[url('https://images.pexels.com/photos/8005397/pexels-photo-8005397.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
+            bottomDecorationFirstVariant="absolute text-sm bg-[url('https://images.unsplash.com/photo-1631545806623-7d0b4d3f4d84?w=800&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"
             bottomDecorationSecondVariant="absolute text-sm bg-[linear-gradient(to_top,rgba(43,57,145,0.7),rgba(43,57,145,0))] box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[2] overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]"
           />
         </div>

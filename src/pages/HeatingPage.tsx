@@ -65,7 +65,7 @@ export const HeatingPage = () => (
             className="absolute inset-0 bg-cover bg-center opacity-20"
             style={{
               backgroundImage:
-                "url('https://images.pexels.com/photos/8985463/pexels-photo-8985463.jpeg?auto=compress&cs=tinysrgb&w=1200')",
+                "url('https://images.unsplash.com/photo-1612693956138-13c2f8f7d7a1?w=1200&q=80')",
             }}
           />
           <div className="relative max-w-[1200px] w-[88%] mx-auto py-16 md:py-24 text-center md:text-left">

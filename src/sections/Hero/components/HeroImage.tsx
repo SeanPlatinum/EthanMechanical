@@ -3,7 +3,7 @@ export const HeroImage = () => {
     <div className="relative text-sm content-center items-center box-border caret-transparent flex basis-[calc(100%_-_20px)] flex-col flex-wrap justify-center leading-[22.4px] max-w-full outline-[3px] z-[1] mx-2.5 my-[35px] md:text-base md:basis-[calc(40%_-_20px)] md:leading-[25.6px]">
       <span className="text-sm box-border caret-transparent block leading-[14px] max-w-[90%] min-h-[auto] min-w-[auto] outline-[3px] align-middle z-[2] md:text-base md:leading-4 md:max-w-none">
         <img
-          src="https://images.pexels.com/photos/5691613/pexels-photo-5691613.jpeg?auto=compress&cs=tinysrgb&w=998"
+          src="https://images.unsplash.com/photo-1621905252472-e8a548a6b9d5?w=998&q=80"
           alt=""
           className="text-sm box-border caret-transparent leading-[14px] max-w-full outline-[3px] align-bottom w-[998px] md:text-base md:leading-4"
         />
