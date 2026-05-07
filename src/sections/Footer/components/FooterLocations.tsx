@@ -78,7 +78,6 @@ export const FooterLocations = () => {
                   </span>
                   <div className="text-sm box-border caret-transparent leading-[19.6px] max-w-full min-h-[auto] min-w-px outline-[3px] m-[5px] md:text-base md:leading-[22.4px]">
                     <span className="relative text-sm font-bold box-border caret-transparent block leading-[14px] outline-[3px] md:text-base md:leading-4">
-                      646 Bryant St, Denver, CO 80204, USA
                     </span>
                   </div>
                 </div>
