@@ -535,7 +535,7 @@ Care Plan
                               <span className="relative text-white text-sm font-bold box-border caret-transparent block tracking-[0.36px] leading-[14px] mr-[-0.36px] outline-[3px] text-center uppercase md:text-base md:leading-4">
                                 Learn More
                               </span>
-                            </div>
+                            </span>
                           </div>
                         </a>
                       </div>
@@ -552,8 +552,6 @@ Care Plan
                                   alt="Icon"
                                   className="text-sm box-border caret-transparent h-3.5 leading-[14px] outline-[3px] align-baseline w-3.5 md:text-base md:h-4 md:leading-4 md:w-4"
                                 />
-                              </span>
-                            </span>
                             <div className="text-sm box-border caret-transparent leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
                               <span className="relative text-white text-sm font-bold box-border caret-transparent block tracking-[0.36px] leading-[14px] mr-[-0.36px] outline-[3px] text-center uppercase md:text-base md:leading-4">
                                 Schedule Now
@@ -596,7 +594,7 @@ Care Plan
                                       />
                                     </video>
                                   </div>
-                                </div>
+                                </span>
                                 <div className="absolute box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full left-0 top-0 md:leading-[25.6px]">
                                   <div className="absolute bg-[url('https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=1200&q=80')] bg-no-repeat bg-contain box-border caret-transparent hidden h-full leading-[22.4px] outline-[3px] w-full z-20 bg-center left-0 top-0 md:leading-[25.6px]">
                                     <img
@@ -1199,7 +1197,6 @@ Care Plan
                                     Schedule Now
                                   </span>
                                 </div>
-                              </div>
                             </a>
                           </div>
                           <div className="text-white text-[11.2px] box-border caret-transparent leading-[15.68px] min-h-[auto] min-w-px outline-[3px] text-center md:text-[12.8px] md:leading-[17.92px]">
@@ -1266,7 +1263,6 @@ Care Plan
                                     Schedule Now
                                   </span>
                                 </div>
-                              </div>
                             </a>
                           </div>
                           <div className="text-white text-[11.2px] box-border caret-transparent leading-[15.68px] min-h-[auto] min-w-px outline-[3px] text-center md:text-[12.8px] md:leading-[17.92px]">
@@ -3506,7 +3502,7 @@ Care Plan
                                     className="text-sm box-border caret-transparent h-3.5 leading-[14px] outline-[3px] align-baseline w-3.5 md:text-base md:h-4 md:leading-4 md:w-4"
                                   />
                                 </span>
-                              </span>
+                              </div>
                               <div className="text-sm box-border caret-transparent leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
                                 <span className="relative text-white text-sm font-bold box-border caret-transparent block tracking-[0.36px] leading-[14px] mr-[-0.36px] outline-[3px] text-center uppercase md:text-base md:leading-4">
                                   Schedule Now
@@ -3523,21 +3519,6 @@ Care Plan
                             <a
                               href="tel://(978) 847-4141"
                               className="relative text-blue-900 text-sm box-border caret-transparent block leading-[22.4px] min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px] before:accent-auto before:bg-zinc-600 before:box-border before:caret-transparent before:text-blue-900 before:block before:text-sm before:not-italic before:normal-nums before:font-normal before:h-full before:tracking-[normal] before:leading-[22.4px] before:list-outside before:list-disc before:outline-[3px] before:pointer-events-auto before:absolute before:text-start before:no-underline before:indent-[0px] before:normal-case before:visible before:w-0.5 before:border-separate before:left-[calc(100%_+_10px)] before:top-0 before:font-roboto before:md:text-base before:md:leading-[25.6px]"
-                            >
-                              <div className="text-sm box-border caret-transparent flex leading-[22.4px] outline-[3px] md:text-base md:leading-[25.6px]">
-                                <div className="text-sm box-border caret-transparent grow leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
-                                  <span className="text-neutral-700 text-[12.6px] font-bold box-border caret-transparent block leading-[17.64px] outline-[3px] uppercase font-roboto_condensed md:text-[14.4px] md:leading-[20.16px]">
-                                    Massachusetts
-                                  </span>
-                                  <p className="text-sm font-bold box-border caret-transparent leading-[19.6px] outline-[3px] md:text-[17.6px] md:leading-[24.64px]">
-                                    (978) 847-4141
-                                  </p>
-                                </div>
-                              </div>
-                            </a>
-                          src="https://images.unsplash.com/photo-1612693956138-13c2f8f7d7a1?w=998&q=80"
-                              href="tel://(978) 847-4141"
-                              className="relative text-blue-900 text-sm box-border caret-transparent block leading-[22.4px] min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]"
                             >
                               <div className="text-sm box-border caret-transparent flex leading-[22.4px] outline-[3px] md:text-base md:leading-[25.6px]">
                                 <div className="text-sm box-border caret-transparent grow leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
