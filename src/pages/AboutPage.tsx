@@ -43,7 +43,7 @@ export const AboutPage = () => {
               className="absolute inset-0 bg-cover bg-center opacity-20"
               style={{
                 backgroundImage:
-                  "url('https://c.animaapp.com/moump05judxXNB/assets/heat-video-cover-comp.webp')",
+                  "url('https://images.pexels.com/photos/8985463/pexels-photo-8985463.jpeg?auto=compress&cs=tinysrgb&w=1200')",
               }}
             />
             <div className="relative max-w-[1200px] w-[88%] mx-auto py-16 md:py-24 text-center md:text-left">
@@ -149,7 +149,7 @@ export const AboutPage = () => {
                 <div className="flex-1 relative">
                   <div className="relative overflow-hidden rounded-xl shadow-xl">
                     <video
-                      poster="https://c.animaapp.com/moump05judxXNB/assets/heat-video-cover-comp.webp"
+                      poster="https://images.pexels.com/photos/8985463/pexels-photo-8985463.jpeg?auto=compress&cs=tinysrgb&w=1200"
                       preload="metadata"
                       playsInline
                       loop
@@ -269,7 +269,7 @@ export const AboutPage = () => {
                     className="h-72 md:h-full min-h-[320px] rounded-2xl shadow-xl bg-cover bg-center"
                     style={{
                       backgroundImage:
-                        "url('https://c.animaapp.com/moump05judxXNB/assets/community_4.jpg')",
+                        "url('https://images.pexels.com/photos/2760241/pexels-photo-2760241.jpeg?auto=compress&cs=tinysrgb&w=1200')",
                     }}
                   />
                 </div>

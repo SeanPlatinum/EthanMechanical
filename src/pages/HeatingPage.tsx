@@ -65,7 +65,7 @@ export const HeatingPage = () => (
             className="absolute inset-0 bg-cover bg-center opacity-20"
             style={{
               backgroundImage:
-                "url('https://c.animaapp.com/moump05judxXNB/assets/heat-video-cover-comp.webp')",
+                "url('https://images.pexels.com/photos/8985463/pexels-photo-8985463.jpeg?auto=compress&cs=tinysrgb&w=1200')",
             }}
           />
           <div className="relative max-w-[1200px] w-[88%] mx-auto py-16 md:py-24 text-center md:text-left">

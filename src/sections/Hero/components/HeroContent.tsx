@@ -12,7 +12,8 @@ export const HeroContent = () => {
             <div className="text-sm box-border caret-transparent flex leading-[22.4px] outline-[3px] md:text-base md:leading-[25.6px]">
               <div className="text-sm box-border caret-transparent grow leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
                 <h1 className="text-white text-[38.5px] font-bold box-border caret-transparent leading-[46.2px] outline-[3px] text-center md:text-[64px] md:leading-[76.8px] md:text-start">
-                  Premium-Quality Home Services
+              src="https://images.unsplash.com/photo-1621905252472-e8a548a6b9d5?w=900&q=80"
+Home Services
                 </h1>
                 <span className="text-white text-[17.5px] font-medium box-border caret-transparent block leading-[24.5px] outline-[3px] text-center mt-[6.125px] md:text-2xl md:leading-[33.6px] md:text-start md:mt-[8.4px]">
                   Delivered by Trained Professionals Located in Metro

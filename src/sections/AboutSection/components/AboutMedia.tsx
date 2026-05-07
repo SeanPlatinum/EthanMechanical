@@ -17,7 +17,7 @@ export const AboutMedia = () => {
                   <div className="box-border caret-transparent leading-[22.4px] outline-[3px] md:leading-[25.6px]">
                     <div className="box-border caret-transparent leading-[22.4px] outline-[3px] md:leading-[25.6px]">
                       <video
-                        poster="https://c.animaapp.com/moump05judxXNB/assets/heat-video-cover-comp.webp"
+                        poster="https://images.pexels.com/photos/8985463/pexels-photo-8985463.jpeg?auto=compress&cs=tinysrgb&w=1200"
                         preload="metadata"
                         playsinline="1"
                         loop=""
@@ -34,9 +34,9 @@ export const AboutMedia = () => {
                     </div>
                   </div>
                   <div className="absolute box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full left-0 top-0 md:leading-[25.6px]">
-                    <div className="absolute bg-[url('https://c.animaapp.com/moump05judxXNB/assets/heat-video-cover-comp.webp')] bg-no-repeat bg-contain box-border caret-transparent hidden h-full leading-[22.4px] outline-[3px] w-full z-20 bg-center left-0 top-0 md:leading-[25.6px]">
+                    <div className="absolute bg-[url('https://images.pexels.com/photos/8985463/pexels-photo-8985463.jpeg?auto=compress&cs=tinysrgb&w=1200')] bg-no-repeat bg-contain box-border caret-transparent hidden h-full leading-[22.4px] outline-[3px] w-full z-20 bg-center left-0 top-0 md:leading-[25.6px]">
                       <img
-                        src="https://c.animaapp.com/moump05judxXNB/assets/heat-video-cover-comp.webp"
+                        src="https://images.pexels.com/photos/8985463/pexels-photo-8985463.jpeg?auto=compress&cs=tinysrgb&w=1200"
                         alt=""
                         className="absolute aspect-[auto_0_/_0] box-border caret-transparent h-full leading-[22.4px] max-w-full object-contain outline-[3px] align-baseline w-full left-0 top-0 md:leading-[25.6px]"
                       />

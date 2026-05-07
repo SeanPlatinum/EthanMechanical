@@ -16,7 +16,7 @@ export const Hero = () => {
                   <div className="relative text-sm content-center items-center bg-neutral-100 box-border caret-transparent gap-x-5 flex basis-[calc(100%_-_30px)] flex-col flex-wrap justify-start leading-[22.4px] max-w-full min-h-0 outline-[3px] gap-y-5 z-[1] mt-[75px] mb-[30px] mx-[15px] pb-10 px-[30px] rounded-b-[20px] md:text-base md:basis-[calc(33.33%_-_30px)] md:leading-[25.6px] md:min-h-[475px] md:mb-[25px]">
                     <div className="absolute text-sm box-border caret-transparent h-[175px] leading-[22.4px] outline-[3px] w-full z-[-1] left-0 top-0 md:text-base md:h-[200px] md:leading-[25.6px]">
                       <div className="absolute text-sm box-border caret-transparent h-full leading-[22.4px] outline-[3px] pointer-events-none w-full z-[-1] overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]">
-                        <div className="absolute text-sm bg-[url('https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
+                        <div className="absolute text-sm bg-[url('https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
                         <div className="absolute text-sm bg-[linear-gradient(to_top,rgba(43,57,145,0.7),rgba(43,57,145,0))] box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[2] overflow-hidden left-0 top-0 md:text-base md:leading-[25.6px]"></div>
                       </div>
                     </div>
@@ -66,7 +66,7 @@ export const Hero = () => {
                   </div>
                   <div className="relative text-sm content-center items-center box-border caret-transparent gap-x-5 flex basis-[calc(100%_-_30px)] flex-col flex-wrap justify-start leading-[22.4px] max-w-full outline-[3px] gap-y-5 z-[1] mx-[15px] my-[30px] pb-10 px-10 rounded-b-[20px] md:text-base md:basis-[calc(33.33%_-_30px)] md:leading-[25.6px] md:my-[25px]">
                     <div className="absolute text-sm box-border caret-transparent h-full leading-[22.4px] outline-[3px] pointer-events-none w-full z-[-1] overflow-hidden rounded-b-[20px] left-0 top-0 md:text-base md:leading-[25.6px]">
-                      <div className="absolute text-sm bg-[url('https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&q=80')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-center rounded-b-[20px] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
+                      <div className="absolute text-sm bg-[url('https://images.pexels.com/photos/8486972/pexels-photo-8486972.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-center rounded-b-[20px] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
                     </div>
                     <span className="text-sm box-border caret-transparent block leading-[14px] mt-[-30px] min-h-[auto] min-w-[auto] outline-[3px] align-middle w-[90px] mb-[125px] md:text-base md:leading-4 md:mt-[-50px] md:w-[100px] md:mb-40">
                       <img
@@ -79,7 +79,8 @@ export const Hero = () => {
                       <div className="text-sm box-border caret-transparent flex leading-[22.4px] outline-[3px] md:text-base md:leading-[25.6px]">
                         <div className="text-sm box-border caret-transparent grow leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
                           <p className="text-white text-[21px] font-bold box-border caret-transparent leading-[25.2px] outline-[3px] text-center uppercase md:text-[32px] md:leading-[38.4px]">
-                            The Heart Care Plan
+                        <div className="absolute text-sm bg-[url('https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
+Care Plan
                           </p>
                           <span className="text-white text-sm box-border caret-transparent block leading-[19.6px] outline-[3px] text-center mt-[4.9px] md:text-base md:leading-[22.4px] md:mt-[5.6px]">
                             The Heart Care Plan helps keep your home’s heating,
@@ -144,7 +145,7 @@ export const Hero = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="relative text-sm box-border caret-transparent leading-[22.4px] min-h-[auto] min-w-[auto] outline-[3px] md:text-base md:leading-[25.6px]">
+                        <div className="absolute text-sm bg-[url('https://images.pexels.com/photos/8005397/pexels-photo-8005397.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-[position:50%_30%] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
                       <a
                         href="/about-us/coupons/"
                         className="relative text-blue-900 text-sm bg-blue-900 box-border caret-transparent inline-flex flex-col leading-[22.4px] min-w-px outline-[3px] w-full overflow-hidden md:text-base md:leading-[25.6px] md:w-auto"
@@ -1127,7 +1128,7 @@ export const Hero = () => {
                       </div>
                     </div>
                   </div>
-                </div>
+                          <div className="absolute text-sm bg-[url('https://images.pexels.com/photos/8486972/pexels-photo-8486972.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-center rounded-b-[20px] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
               </div>
             </div>
             <div className="relative text-sm box-border caret-transparent leading-[22.4px] outline-[3px] py-[75px] md:text-base md:leading-[25.6px] md:py-[100px]">
@@ -1193,7 +1194,7 @@ export const Hero = () => {
                                     />
                                   </span>
                                 </span>
-                                <div className="text-sm box-border caret-transparent leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
+                          <div className="absolute text-sm bg-[url('https://images.pexels.com/photos/8486972/pexels-photo-8486972.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-center rounded-b-[20px] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
                                   <span className="relative text-white text-sm font-bold box-border caret-transparent block tracking-[0.36px] leading-[14px] mr-[-0.36px] outline-[3px] text-center uppercase md:text-base md:leading-4">
                                     Schedule Now
                                   </span>
@@ -1260,7 +1261,7 @@ export const Hero = () => {
                                     />
                                   </span>
                                 </span>
-                                <div className="text-sm box-border caret-transparent leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
+                          <div className="absolute text-sm bg-[url('https://images.pexels.com/photos/8486972/pexels-photo-8486972.jpeg?auto=compress&cs=tinysrgb&w=800')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-center rounded-b-[20px] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
                                   <span className="relative text-white text-sm font-bold box-border caret-transparent block tracking-[0.36px] leading-[14px] mr-[-0.36px] outline-[3px] text-center uppercase md:text-base md:leading-4">
                                     Schedule Now
                                   </span>
@@ -3435,7 +3436,7 @@ export const Hero = () => {
                           className="relative text-blue-900 text-sm bg-blue-900 box-border caret-transparent inline-flex flex-col leading-[22.4px] min-w-px outline-[3px] w-full overflow-hidden md:text-base md:leading-[25.6px] md:w-auto"
                         >
                           <div className="relative text-sm items-center box-border caret-transparent gap-x-2.5 flex grow shrink-0 h-full justify-center leading-[22.4px] min-h-[auto] min-w-[auto] outline-[3px] gap-y-2.5 overflow-hidden px-5 py-[15px] md:text-base md:leading-[25.6px]">
-                            <span className="relative text-sm items-start box-border caret-transparent hidden shrink-0 justify-start leading-[14px] outline-[3px] z-[2] md:text-base md:leading-4">
+                    <div className="absolute text-sm bg-[url('https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=1200')] bg-no-repeat bg-cover box-border caret-transparent h-full leading-[22.4px] outline-[3px] w-full z-[1] overflow-hidden bg-center rounded-br-[50px] left-0 top-0 md:text-base md:leading-[25.6px]"></div>
                               <span className="relative text-sm items-center box-border caret-transparent inline-flex justify-center leading-[14px] outline-[3px] text-center md:text-base md:leading-4">
                                 <img
                                   src="https://c.animaapp.com/moump05judxXNB/assets/icon-2.svg"
@@ -3534,7 +3535,7 @@ export const Hero = () => {
                                 </div>
                               </div>
                             </a>
-                            <a
+                          src="https://images.pexels.com/photos/8985463/pexels-photo-8985463.jpeg?auto=compress&cs=tinysrgb&w=998"
                               href="tel://(978) 847-4141"
                               className="relative text-blue-900 text-sm box-border caret-transparent block leading-[22.4px] min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]"
                             >
