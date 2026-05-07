@@ -1,9 +1,11 @@
+import { Link } from "react-router-dom";
+
 export const DesktopNavbar = () => {
   return (
     <ul className="text-sm items-stretch self-stretch box-border caret-transparent hidden shrink-0 justify-center leading-[22.4px] list-none min-h-0 min-w-px outline-[3px] w-full pl-0 md:text-base md:flex md:leading-[25.6px] md:min-h-[auto]">
       <li className="relative text-sm items-stretch box-border caret-transparent flex shrink-0 justify-center leading-[22.4px] min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
-        <a
-          href="/hvac/air-conditioning"
+        <Link
+          to="/hvac/air-conditioning"
           className="relative text-blue-900 text-sm box-border caret-transparent flex flex-col shrink-0 leading-[22.4px] min-h-0 min-w-px outline-[3px] overflow-hidden md:text-base md:leading-[25.6px] md:min-h-[auto]"
         >
           <div className="relative text-sm items-center box-border caret-transparent gap-x-[5px] flex grow shrink-0 h-full justify-between leading-[22.4px] min-h-0 min-w-0 outline-[3px] gap-y-[5px] overflow-hidden px-[17.5px] py-3.5 md:text-base md:leading-[25.6px] md:min-h-[auto] md:min-w-[auto] md:px-5 md:py-4">
@@ -20,11 +22,11 @@ export const DesktopNavbar = () => {
               />
             </span>
           </div>
-        </a>
+        </Link>
       </li>
       <li className="relative text-sm items-stretch box-border caret-transparent flex shrink-0 justify-center leading-[22.4px] min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
-        <a
-          href="/hvac/heating-services"
+        <Link
+          to="/hvac/heating-services"
           className="relative text-blue-900 text-sm box-border caret-transparent flex flex-col shrink-0 leading-[22.4px] min-h-0 min-w-px outline-[3px] overflow-hidden md:text-base md:leading-[25.6px] md:min-h-[auto]"
         >
           <div className="relative text-sm items-center box-border caret-transparent gap-x-[5px] flex grow shrink-0 h-full justify-between leading-[22.4px] min-h-0 min-w-0 outline-[3px] gap-y-[5px] overflow-hidden px-[17.5px] py-3.5 md:text-base md:leading-[25.6px] md:min-h-[auto] md:min-w-[auto] md:px-5 md:py-4">
@@ -41,11 +43,11 @@ export const DesktopNavbar = () => {
               />
             </span>
           </div>
-        </a>
+        </Link>
       </li>
       <li className="relative text-sm items-stretch box-border caret-transparent flex shrink-0 justify-center leading-[22.4px] min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
-        <a
-          href="/plumbing-services"
+        <Link
+          to="/plumbing-services"
           className="relative text-blue-900 text-sm box-border caret-transparent flex flex-col shrink-0 leading-[22.4px] min-h-0 min-w-px outline-[3px] overflow-hidden md:text-base md:leading-[25.6px] md:min-h-[auto]"
         >
           <div className="relative text-sm items-center box-border caret-transparent gap-x-[5px] flex grow shrink-0 h-full justify-between leading-[22.4px] min-h-0 min-w-0 outline-[3px] gap-y-[5px] overflow-hidden px-[17.5px] py-3.5 md:text-base md:leading-[25.6px] md:min-h-[auto] md:min-w-[auto] md:px-5 md:py-4">
@@ -62,11 +64,11 @@ export const DesktopNavbar = () => {
               />
             </span>
           </div>
-        </a>
+        </Link>
       </li>
       <li className="relative text-sm items-stretch box-border caret-transparent flex shrink-0 justify-center leading-[22.4px] min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
-        <a
-          href="/drains"
+        <Link
+          to="/drains"
           className="relative text-blue-900 text-sm box-border caret-transparent flex flex-col shrink-0 leading-[22.4px] min-h-0 min-w-px outline-[3px] overflow-hidden md:text-base md:leading-[25.6px] md:min-h-[auto]"
         >
           <div className="relative text-sm items-center box-border caret-transparent gap-x-[5px] flex grow shrink-0 h-full justify-between leading-[22.4px] min-h-0 min-w-0 outline-[3px] gap-y-[5px] overflow-hidden px-[17.5px] py-3.5 md:text-base md:leading-[25.6px] md:min-h-[auto] md:min-w-[auto] md:px-5 md:py-4">
@@ -83,7 +85,7 @@ export const DesktopNavbar = () => {
               />
             </span>
           </div>
-        </a>
+        </Link>
       </li>
       <li className="relative text-sm items-stretch box-border caret-transparent flex shrink-0 justify-center leading-[22.4px] min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
         <a
@@ -107,8 +109,8 @@ export const DesktopNavbar = () => {
         </a>
       </li>
       <li className="relative text-sm items-stretch box-border caret-transparent flex shrink-0 justify-center leading-[22.4px] min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
-        <a
-          href="/about-us"
+        <Link
+          to="/about-us"
           className="relative text-blue-900 text-sm box-border caret-transparent flex flex-col shrink-0 leading-[22.4px] min-h-0 min-w-px outline-[3px] overflow-hidden md:text-base md:leading-[25.6px] md:min-h-[auto]"
         >
           <div className="relative text-sm items-center box-border caret-transparent gap-x-[5px] flex grow shrink-0 h-full justify-between leading-[22.4px] min-h-0 min-w-0 outline-[3px] gap-y-[5px] overflow-hidden px-[17.5px] py-3.5 md:text-base md:leading-[25.6px] md:min-h-[auto] md:min-w-[auto] md:px-5 md:py-4">
@@ -125,7 +127,7 @@ export const DesktopNavbar = () => {
               />
             </span>
           </div>
-        </a>
+        </Link>
       </li>
       <li className="text-sm items-stretch box-border caret-transparent flex shrink-0 justify-center leading-[22.4px] min-h-0 min-w-px outline-[3px] md:text-base md:leading-[25.6px] md:min-h-[auto]">
         <a
