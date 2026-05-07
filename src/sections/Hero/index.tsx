@@ -1713,8 +1713,8 @@ export const Hero = () => {
                       <div className="relative text-sm box-border caret-transparent leading-[22.4px] min-h-[auto] min-w-[auto] outline-[3px] mr-5 md:text-base md:leading-[25.6px]">
                         <span className="text-sm box-border caret-transparent inline-block leading-[14px] max-w-full outline-[3px] align-middle md:text-base md:leading-4">
                           <img
-                            src="https://c.animaapp.com/moump05judxXNB/assets/map_new.png"
-                            alt=""
+                            src="/images/map.png"
+                            alt="Service area map"
                             className="text-sm box-border caret-transparent leading-[14px] max-w-full outline-[3px] align-bottom w-[409px] md:text-base md:leading-4"
                           />
                         </span>
