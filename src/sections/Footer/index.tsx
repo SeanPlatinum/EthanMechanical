@@ -11,7 +11,7 @@ export const Footer = () => {
         <div className="text-sm items-center box-border caret-transparent gap-x-[50px] flex basis-full flex-col justify-center leading-[22.4px] min-h-[auto] min-w-px outline-[3px] gap-y-[50px] z-[5] md:text-base md:leading-[25.6px]">
           <div className="relative text-sm items-center box-border caret-transparent gap-x-[15px] flex flex-col grow shrink-0 justify-between leading-[22.4px] max-w-[1200px] min-h-[auto] min-w-px outline-[3px] gap-y-[15px] w-full md:text-base md:gap-x-2.5 md:flex-row md:leading-[25.6px] md:gap-y-2.5">
             <div className="text-white text-sm box-border caret-transparent leading-[22.4px] min-h-[auto] min-w-px outline-[3px] text-center md:text-base md:leading-[25.6px] md:text-start">
-              © 2026 E&J Mechanical Reserved 
+              © 2026 Comfort Pros. All rights reserved.
             </div>
             <div className="relative text-sm items-stretch box-border caret-transparent gap-x-[5px] flex flex-wrap justify-start leading-[22.4px] outline-[3px] gap-y-[5px] md:text-base md:leading-[25.6px]">
               <div className="relative text-sm box-border caret-transparent leading-[22.4px] min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">

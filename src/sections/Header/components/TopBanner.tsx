@@ -4,13 +4,14 @@ export const TopBanner = () => {
       <div className="text-sm items-center box-border caret-transparent flex basis-full justify-center leading-[22.4px] min-h-[auto] min-w-px outline-[3px] z-[5] md:text-base md:leading-[25.6px]">
         <div className="relative text-sm items-center box-border caret-transparent flex grow shrink-0 justify-between leading-[22.4px] min-h-[auto] min-w-px outline-[3px] w-full md:text-base md:leading-[25.6px]">
           <a
-            href="/about-us/community/"
+            href="/heat-pumps"
             className="relative text-blue-900 text-sm bg-[linear-gradient(rgb(208,33,53),rgb(207,67,40))] box-border caret-transparent block leading-[22.4px] min-h-[auto] min-w-px outline-[3px] w-full p-2.5 md:text-base md:leading-[25.6px]"
           >
             <div className="text-sm box-border caret-transparent flex leading-[22.4px] outline-[3px] md:text-base md:leading-[25.6px]">
               <div className="text-sm box-border caret-transparent grow leading-[22.4px] max-w-full min-h-[auto] min-w-px outline-[3px] md:text-base md:leading-[25.6px]">
                 <p className="text-white text-[12.6px] font-semibold box-border caret-transparent leading-[17.64px] outline-[3px] text-center md:text-[14.4px] md:leading-[20.16px]">
-                  View Our 2025 Lennox Feel the Love™ Program Award Winner
+                  Heat pump installation, repair, and maintenance for
+                  year-round comfort
                 </p>
               </div>
             </div>

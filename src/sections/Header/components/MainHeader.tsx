@@ -11,7 +11,7 @@ export const MainHeader = () => {
           <HeaderLogo />
           <div className="relative text-sm box-border caret-transparent hidden leading-[22.4px] min-h-0 min-w-0 outline-[3px] md:text-base md:block md:leading-[25.6px] md:min-h-[auto] md:min-w-[auto]">
             <RatingBadge
-              href="http://search.google.com/local/reviews?placeid=ChIJl6vLIcGBbIcR3nyblga1lm4"
+              href="#"
               ratingText="Rated 4.8"
               ariaLabel="4.8 / 5"
               iconSrc="https://c.animaapp.com/moump05judxXNB/assets/icon-1.svg"

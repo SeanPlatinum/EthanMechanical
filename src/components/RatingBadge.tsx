@@ -14,9 +14,13 @@ export type RatingBadgeProps = {
 };
 
 export const RatingBadge = (props: RatingBadgeProps) => {
+  const isDisabledLink = props.href === "#";
+
   return (
     <a
       href={props.href}
+      onClick={isDisabledLink ? (event) => event.preventDefault() : undefined}
+      aria-disabled={isDisabledLink ? "true" : undefined}
       className={`relative text-blue-900 text-sm content-center items-center box-border caret-transparent gap-x-[5px] flex flex-wrap justify-center leading-[22.4px] outline-[3px] gap-y-[5px] md:text-base md:leading-[25.6px] ${props.rootVariant}`}
     >
       <span
